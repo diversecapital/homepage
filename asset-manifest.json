@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.09246723.chunk.css",
+    "main.js": "/static/js/main.d2227ffb.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.05a34910.js",
+    "static/js/2.3fcffb60.chunk.js": "/static/js/2.3fcffb60.chunk.js",
+    "static/js/3.5c4ce221.chunk.js": "/static/js/3.5c4ce221.chunk.js",
+    "index.html": "/index.html",
+    "static/js/2.3fcffb60.chunk.js.LICENSE.txt": "/static/js/2.3fcffb60.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/PPNeueMachina-Ultrabold.4739fc07.otf",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05a34910.js",
+    "static/js/2.3fcffb60.chunk.js",
+    "static/css/main.09246723.chunk.css",
+    "static/js/main.d2227ffb.chunk.js"
+  ]
+}
